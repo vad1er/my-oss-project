@@ -1,25 +1,27 @@
 {
-  "name": "my-oss-project",
+  "name": "greetify",
   "version": "1.0.0",
   "description": "A simple JavaScript library that greets users.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No tests yet\" && exit 0"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/my-oss-project.git"
+    "url": "https://github.com/vad1er/greetify.git"
   },
   "keywords": [
     "greet",
-    "open-source",
+    "hello",
     "javascript",
-    "library"
+    "library",
+    "npm",
+    "open-source"
   ],
-  "author": "Your Name",
+  "author": "vad1er",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yourusername/my-oss-project/issues"
+    "url": "https://github.com/vad1er/greetify/issues"
   },
-  "homepage": "https://github.com/yourusername/my-oss-project#readme"
+  "homepage": "https://github.com/vad1er/greetify#readme"
 }
