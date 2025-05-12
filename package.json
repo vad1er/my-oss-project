@@ -1,0 +1,25 @@
+{
+  "name": "my-oss-project",
+  "version": "1.0.0",
+  "description": "A simple JavaScript library that greets users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/my-oss-project.git"
+  },
+  "keywords": [
+    "greet",
+    "open-source",
+    "javascript",
+    "library"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/my-oss-project/issues"
+  },
+  "homepage": "https://github.com/yourusername/my-oss-project#readme"
+}
