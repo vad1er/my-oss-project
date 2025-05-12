@@ -1,21 +1,13 @@
-# My OSS Project
+# Greetify 😄
 
-A simple JavaScript library that greets users.
+A simple and lightweight JavaScript library to greet users with customizable messages.
 
-## Installation
+## ✨ Features
+- Friendly greeting messages
+- Easy to use
+- Zero dependencies
+
+## 📦 Installation
 
 ```bash
-npm install my-oss-project
-```
-
-## Usage
-
-```js
-const greet = require('my-oss-project');
-
-console.log(greet('Alice')); // Hello, Alice!
-```
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+npm install greetify
